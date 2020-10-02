@@ -3,7 +3,7 @@ Simple drum synthesis running on Colabotory with parameter learning through gene
 
 ## Snare Synthesizer
 
-Snare.ipynb
+[Snare.ipynb](Snare.ipynb)
 
 A simple snare drum synthesizer written in Python with automatic parameter matching. A genetic algorithm is used to tune the synthesizer parameters in an attempt to match the output to an uploaded audio file.
 
@@ -13,7 +13,7 @@ The genetic algorithm is adapted from the following guide: https://towardsdatasc
 
 ## Kick Synthesizer
 
-Kick.ipynb
+[Kick.ipynb](Kick.ipynb)
 
 A simple kick drum synthesizer written in Python with automatic parameter matching. A genetic algorithm is used to tune the synthesizer parameters in an attempt to match the output to an uploaded audio file.
 
